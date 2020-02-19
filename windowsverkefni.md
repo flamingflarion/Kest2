@@ -18,15 +18,19 @@
 * What is the current BIOS version available for the motherboard? 
   *
 * What features, if any, have been added to the new BIOS version?
-  *
+ *
 * What changes, if any, have been made to the new BIOS version to fix problems?
-  *
+ *
 * What are the instructions to update the new BIOS version?
-  *
+ *
 # 3.1.2.7 Lab - Install Third-Party Software in Windows
-
+* What is the default installation location for Packet Tracer?
+ * C:\Program Files\Packet Tracer
+* Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
+ * To get rid of everything from that application 
 # 10.2.1.8 Lab - Create a Partition in Windows
-
+* 
+ *
 # 11.1.2.10 Lab - Explore the Windows Desktop
 
 # 11.1.3.4 Lab - Work with Task Manager
