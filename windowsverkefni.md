@@ -43,25 +43,131 @@ When prompted, select a drive and directory in which to save the downloaded file
   * Hardware
   * Sharing
 * What tabs are listed in the ITE Test Document Properties window? 
-  *
+  * General
+  * Sharing
+  * Previous Versions
+  * Customize
 * What happens if you do not run as administrator when you open the command prompt?
-  *
+  * Access Denied as you do not have sufficient privileges or the disk may be locked by another process. You have to invoke this utility running in elevated mode and make sure the disk is unlocked.
 * What type of File System is used for the ITE (I:) drive?
-  *
+  * NTFS
 * What are the tabs in the ITE (I:) Properties window?
-  *
+  * ReadyBoost
+  * Previous Versions
+  * Quota
+  * Customize
+  * General
+  * Tools
+  * Hardware
+  * Sharing
+  * Security
 * When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added after the volume was converted to NTFS?
-  *  
+  * there were 7 tabs before not six
+  * Security
+  * Quota
 * What are the tabs in the ITE Test Document Properties window?
-  *
+  * General
+  * Sharing
+  * Security
+  * Previous Versions
+  * Customize
 * When the volume was FAT32, there were three tabs. What is the name of the new tab that was added
 after the volume was converted to NTFS?
-  *
+  */ there were 4 tabs
+  * Security
 * Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
+  * NTFS is more based on security 
 ## 11.1.2.10 Lab - Explore the Windows Desktop
-* 
+* List some of the icons that are on the Desktop.
+  * Trashcan
+  * Microsoft Edge
+  * Google Chrome
+  * FireFox
+  * File Explorer
+* What type of information is available on the Desktop and Taskbar?
+  * Shortcuts to different applications
+  * Searchbar
+  * Start menu
+  * the time & date
+  * languages
+  * (for laptops) power
+* Name a few applications listed in the Start Menu.
+  * Calculator
+  * Calendar 
+  * Camera
+  * Candycrush
+  * Microsoft office
+* What are some of the available options?
+  * Pin to start
+  * More
+    * Pin to taskbar
+    * Run as administrator
+    * App settings
+    * Rate and review
+    * Share
+  * Uninstall
+* What are the available options in the Taskbar settings?
+  * Lock the taskbar
+  * Automatically hide the taskbar in desktop mode
+  * Use small taskbar buttons
+  * Use Peek preview the desktop you move your mouse to the show desktop button at the end of the taskbar
+  * Replace Command Promt with Windows PowerShell in the menu when i right-click the start button or press Windows key+X
+  * Show badges on taskbar buttons
+* What are the available options in the Task View settings?
+  * New desktop
+  * Search activities
+  * Recently saved/downloaded
+  * all open desktops
+  * all open applications
+* Open the same application in Desktop 2 that was opened in Desktop 1. What happened?
+  * it wouldn't open
+* Notification area provides information list examples.
+  * Battery 
+  * Hidden icons
+  * Power
+  * Wifi connection
+  * Audio
+  * Language
+  * Time & Date
+  * Notification bar
+* what are the behavior options for the icons (windows 7, 8)
+  * Show icon and notifications
+  * Hide icon and notifications
+  * Only show notifications
+* Click Turn system icons on or off. List the system icons that can be enabled.
+  * Clock
+  * Volume
+  * Network
+  * Power
+  * Input indicator
+  * Location
+  * Action Center
+  * Touch keyboard
+  * Windows Ink Workspace
+  * Touchpad
+  * Microphone
+* (In Action Center) What can you do in the Notification & actions Settings window?
+  * Tablet mode
+  * Location
+  * Battery saver
+  * Bluetooth
+  * Night light
+  * Mobile hotspot
+  * Airplane mode
+  * Nearby sharing
+  * All settings
+  * Network
+  * Connect
+  * Project
+  * VPN
+  * Focus assist
+  * Screen strip
 ## 11.1.3.4 Lab - Work with Task Manager
-
+* To force the web browser to close, highlight the browser, and click End task. What happened?
+  * it closes it
+* Open the web browser again. Right-click the web browser in the Task Manager What options are available?
+  * 
+  
 ## 11.1.4.11 Lab - Working with File Explorer
 
 ## 11.2.1.5 Lab - Explore Control Panel Categories
