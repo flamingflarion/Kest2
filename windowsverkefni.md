@@ -163,13 +163,108 @@ after the volume was converted to NTFS?
   * Focus assist
   * Screen strip
 ## 11.1.3.4 Lab - Work with Task Manager
-* To force the web browser to close, highlight the browser, and click End task. What happened?
-  * it closes it
-* Open the web browser again. Right-click the web browser in the Task Manager What options are available?
-  * 
-  
-## 11.1.4.11 Lab - Working with File Explorer
+#### Applications tab.
 
+* To force the web browser to close, highlight the browser, and click End task. What happened?
+  * it closes the browser
+* Open the web browser again. Right-click the web browser in the Task Manager What options are available?
+  * Switch to
+  * End task
+  * Provide feedback
+  * Debug
+  * Create dump file
+  * Run new task
+  * Always on top
+  * Go to details
+  * Open file location
+  * Search online
+  * Properties
+#### Services tab
+* What statuses are listed?
+  * Stopped
+  * Running
+* What are the avaliable actions that can be taken
+  * Start
+  * Stop
+  * Restart
+  * Open services
+  * Search online
+  * Go to details
+#### Preformance tab
+* What is the current utilization of the CPU?
+  * 5%
+* How many streams of instructions (i.e. Threads) are currently running?
+  * 3084
+* How many Apps, Background processes, and Windows processes (i.e Processes) are currently running?
+  * 290
+* What is the total physical memory (MB)?
+  * 8,0 GB
+* What is the available physical memory (MB)?
+  * 2070
+* How much physical memory (MB) is being used by the computer?
+  * 5926
+* What is the link speed? What type of Ethernet Adapter is in use on this computer?
+  * 
+* What type of network connection (i.e Connection type) is in use?
+  * 100 Kbps
+* What is the IPv4 address of the PC?
+  * 192.168.56.1
+#### Processes tab
+* b. Click the Memory heading. Click the Memory heading a second time. What effect does this have on the columns?
+  * searches from lowest to highest amount of Memory used
+* Right-click on the Memory heading, and then select Resource values > Memory > Percents. What affect does this have on the Memory column?
+  * Changes it to show the precentage instead of the MB usage
+* How could this be useful?
+  * you could see how big a precentage of your memory is being used upp.
+* The listed processes are divided by categories. What categories are listed?
+  * Apps
+  * Background processes
+  * Windows processes
+#### Users tab
+* Right-click a username. What are the available options?
+  * Expand
+  * Disconnect
+  * Manage user accounts
+#### Startup, App history and Details tabs
+* The Startup tab lists the processes that are started automatically during Windows startup. Click the Startup tab. Right-click a process and list the available options below.
+  * Enable
+  * Open file location
+  * Search online
+  * Properties
+* The App history tab lists the historical resources usage. What type of information can you get from this list?
+  * CPU time
+  * Network
+  * Metered network
+  * Tile updates
+  * when it was used last
+* The Details tab displays process information such as process ID (PID), status, and memory utilization. Right-click a process and list the available options below.
+  * End task
+  * Provide feedback
+  * End process tree
+  * Set priority
+  * Set affinity
+  * Analyze wait chain
+  * UAC virtualization
+  * Create dump file
+  * Open file location
+  * search online
+  * Properties
+  * Go to service(s)
+* Why is it important for an administrator to understand how to work within the Task Manager?
+  * you need to be able to use Task Manager so that you can fix problems find out whats causing issues and find out what needs to be replaced/upgraded
+## 11.1.4.11 Lab - Working with File Explorer
+* What happened with Folder1 and Folder2 on the Desktop?
+  * Folder 1 is still on the Desktop. Folder 2 is inside of Folder 1
+* What is the file extension for the text document?
+  * .txt
+* Make a copy of the text document and place it in Folder2. How would you do it?
+  * you could right click on the file and press copy then press inside of a folder or desktop and right click the background and press paste
+  * or you could press on the file ctrl+c and then ctrl v where you want it to be
+* Right-click the text document > click Properties. Click the Details tab. What are the attributes associated with this file?
+  * A
+* Now create a folder named Folder3 inside of Folder2. What is the complete path to Folder3.
+  * C:\Users\Notandi\Desktop\Folder1\Folder2
+*
 ## 11.2.1.5 Lab - Explore Control Panel Categories
 
 ## 11.2.2.3 Lab - User Accounts
@@ -178,27 +273,27 @@ after the volume was converted to NTFS?
 
 ## 11.2.6.2 Lab - Use Device Manager
 
-11.3.1.11 Lab - Monitor and Manage System Resources
+## 11.3.1.11 Lab - Monitor and Manage System Resources
 
-11.3.2.7 Lab - System Utilities
+## 11.3.2.7 Lab - System Utilities
 
-11.3.2.8 Lab - Manage System Files
+## 11.3.2.8 Lab - Manage System Files
 
-11.4.1.5 Lab - Work in the Windows Command Shell
+## 11.4.1.5 Lab - Work in the Windows Command Shell
 
-11.4.2.7 Lab - File System Commands
+## 11.4.2.7 Lab - File System Commands
 
-11.4.3.2 Lab - Disk CLI Commands
+## 11.4.3.2 Lab - Disk CLI Commands
 
-11.4.4.2 Lab - Task and System CLI Commands
+## 11.4.4.2 Lab - Task and System CLI Commands
 
-11.4.5.3 Lab - Other Useful Commands 
+## 11.4.5.3 Lab - Other Useful Commands 
 
 
 
 Í eftirfarandi verkefnum þurfa tveir hópar að vinna saman.
 
-11.5.2.4 Lab - Share Resources
+## 11.5.2.4 Lab - Share Resources
 
-11.5.6.2 Lab - Windows Remote Desktop and Assistance
+## 11.5.6.2 Lab - Windows Remote Desktop and Assistance
 
