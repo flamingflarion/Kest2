@@ -346,8 +346,16 @@ after the volume was converted to NTFS?
   * Programs and Features
 ##### Step 6: User Accounts (or User Accounts and Family Safety in Windows 8.1 and 7)
 * Which subcategory would you use change the account type from administrator to standard?
-  * 
-
+  * User accounts (Change account type)
+* Which subcategory would you use to view, edit, or remove the web and Windows credentials?
+  * Credential Manager (Manage Web Credentials)
+##### Step 7: Appearance and Personalization
+* Which subcategory would you use to customize the Taskbar?
+  * Taskbar and Navigation
+* Which subcategory would you use to show hidden files and folders?
+  * File Explorer Options (Show hidden files and folders)
+* Which subcategory would you use to show extensions for known file types?
+  
 ## 11.2.2.3 Lab - User Accounts
 
 ## 11.2.5.8 Lab - Manage Virtual Memory
