@@ -264,8 +264,89 @@ after the volume was converted to NTFS?
   * A
 * Now create a folder named Folder3 inside of Folder2. What is the complete path to Folder3.
   * C:\Users\Notandi\Desktop\Folder1\Folder2
-*
+* In Windows 8.x and 10, which directories are listed under Folders? (Note: There is no Folders heading in Windows Explorer.)
+  * This folder is empty.
+* Drag and drop Folder1 onto Quick Access (Windows 10) or Favorites (Windows 7 and 8.x). What happened? Why would you want to do this?
+  * to have Quick and easy access to Folder1 from the File Explorer
+* What are folders listed in the Local Disk (C:)?
+  * BIOS
+  * Drivers
+  * Intel
+  * OneDriveTemp
+  * PerfLogs
+  * Program Files
+  * Program Files (x86)
+  * ProgramData
+  * skoli
+  * UserGuidePDF
+  * Users
+  * Windows
+* Open the Users folder. List all the folders in the directory.
+  * Default
+  * Notandi
+  * Public
+* Open the folder associated with your username. Were you able to open it? Explain.
+  * Yes i was able to open the file it mostly has starting points or files to programs
+* Open the folder associated with another username if it is available on the PC. Were you able to open it? Explain. (Note: Windows 7 does not display other users’ folders.)
+  * I was, this one does not include downloaded items as they haven't been added to that user
+* Open the Public folder. List all the folders in the directory.
+  * Foxit Software
+  * Libraries
+  * Public Account Pictures
+  * Public Desktop
+  * Public Documents
+  * Public Downloads
+  * Public Music
+  * Public Pictures
+  * Public Videos
+  * NTUSER.DAT
+##### Step 2: Windows Libraries
+* Which folders or files listed under the Libraries heading?
+  * Documents
+  * Music
+  * Pictures
+  * Videos
+* How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+  *  I would press on the Library Tools. then press on Manage library. then i press on Folder1 in the new tab. Then press Remove (that unlinks Folder1 from the Library, after that you can just right click on the empty Folder1 Library right click, and press Delete
+  
 ## 11.2.1.5 Lab - Explore Control Panel Categories
+* In the Control Panel, click the View by: drop-down box. What are the viewing options?
+  * Category
+  * Large icons
+  * Small icons
+* Name a few of the Control Panel categories.
+  * System and Security
+  * Network and Internet
+  * Hardware and Sound
+  * Programs
+  * User Accounts
+  * Appearance and Personalization
+  * Clock and Region
+  * Ease of access
+##### Step 2: System and Security
+
+* Which subcategory would help you troubleshoot common problems?
+  * Administrative Tools
+* Which subcategory allow a program through Windows Firewall?
+  * Windows Defender Firewall
+##### Step 3: Network and Internet
+* Which subcategory allows you to view the basic network information and set up connections?
+  * View network status and tasks
+##### Step 4: Hardware and Sound
+* Which subcategory allows you to choose what happens when you insert a media or device?
+  * devices and printers
+* Which subcategory allows you to add a printer?
+  * devices and printers
+##### Step 5: Programs
+* Which subcategory would you use to have a specific file type always open in a specified program?
+  * Default Programs
+* Which subcategory would you use to uninstall a program?
+  * Programs and Features
+* Which subcategory would you use to install the Windows telnet client?
+  * Programs and Features
+##### Step 6: User Accounts (or User Accounts and Family Safety in Windows 8.1 and 7)
+* Which subcategory would you use change the account type from administrator to standard?
+  * 
 
 ## 11.2.2.3 Lab - User Accounts
 
