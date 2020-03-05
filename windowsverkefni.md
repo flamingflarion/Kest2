@@ -355,9 +355,26 @@ after the volume was converted to NTFS?
 * Which subcategory would you use to show hidden files and folders?
   * File Explorer Options (Show hidden files and folders)
 * Which subcategory would you use to show extensions for known file types?
-  
+  * File Explorer Options (Show hidden files and folders)
+##### Step 8: Clock and Region (Clock, Language, and Region)
+* Which subcategory would you use to change the time zone?
+  * Date and Time (Change the time zone)
+* Which subcategory would you use to change date format?
+  * Region (Change date, time, or number formats)
+* Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet?
+  * Date and Tune
+##### Step 9: Ease of Access
+* Which subcategory would you use to configure the computer to read aloud any text on the screen?
+  * Ease of Access Center
+* Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy?
+  * Speech Recognition (start speech recognition)
 ## 11.2.2.3 Lab - User Accounts
-
+* What can a user do with a limited account?
+  * anything that doesn't require administrator essentially
+* What limitations does this type of an account have?
+  * They do not have access to administrator
+*
+# Komst ekki lengra áður en skila frestur var lokið
 ## 11.2.5.8 Lab - Manage Virtual Memory
 
 ## 11.2.6.2 Lab - Use Device Manager
